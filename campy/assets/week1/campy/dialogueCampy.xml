@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueCampy.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai Portrait Enter0000" x="0" y="0" width="90" height="59"/>
+	<SubTexture name="Senpai Portrait Enter0001" x="90" y="0" width="90" height="59"/>
+	<SubTexture name="Senpai Portrait Enter0002" x="90" y="0" width="90" height="59"/>
+	<SubTexture name="Senpai Portrait Enter0003" x="0" y="59" width="90" height="59"/>
+	<SubTexture name="Senpai Portrait Enter0004" x="0" y="59" width="90" height="59"/>
+	<SubTexture name="Senpai Portrait Enter0005" x="90" y="59" width="90" height="59"/>
+	<SubTexture name="Senpai Portrait Enter0006" x="90" y="59" width="90" height="59"/>
+	<SubTexture name="Senpai Portrait Enter0007" x="90" y="59" width="90" height="59"/>
+	<SubTexture name="Senpai Portrait Enter0008" x="90" y="59" width="90" height="59"/>
+</TextureAtlas>
